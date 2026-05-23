@@ -144,5 +144,5 @@ Compatible with **ANY Linux system**:
 ---
 
 ### �🚀 未来规划 (Roadmap)
-- 尝试开发 Windows 版本和 MACOS 版本的原生管家。
+- 尝试开发 Windows 版本和 macOS 版本的原生管家。
 - 探索接入微信平板端 (iPad) 或手表端 (Apple Watch) 协议，实现多端同时在线监听，**彻底省去“主备物理设备扫码交接”这一环**，敬请期待！
